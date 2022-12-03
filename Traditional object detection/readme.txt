@@ -1,0 +1,1 @@
+This folder contains my project related to Object detection which is achieved by image pyramid and sliding window approach. It is a very traditional model and more advanced models like faster R-CNN will be added soon as well.
