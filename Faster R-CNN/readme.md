@@ -1,0 +1,1 @@
+This repo contains my work regarding Faster R-CNN and the dataset. At this point I have completed building Region Proposal Network and will soon work on the next step of the project i.e. Classifier part of the project.
