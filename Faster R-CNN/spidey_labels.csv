@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+1,98,141,199,621,meme.jpg,800,800
+1,317,87,201,537,meme.jpg,800,800
+1,515,129,174,642,meme.jpg,800,800
